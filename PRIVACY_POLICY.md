@@ -1,61 +1,42 @@
-## Inspire.AI: Privacy Policy
+## QR ARTISTIC: Privacy Policy
 
-Welcome to the Inspire.AI!
+Welcome to the QR ARTISTIC!
 
-This is an application that use Inspire.AI algorithm developed by KThinking.
+This is an application that useQR ARTISTIC algorithm developed by KThinking.
 
-Inspire.AI will inspire you with art. All you need to do is 1 click to explore the library with countless creativity and diversity to turn any photo, idea or video into reality instantly.
+Terms of Use
 
-► Explore art
+1. AI-generated content
+QR Artistic uses artificial intelligence to redraw your QR code into an art image. Generated images are clearly labeled "Image made with AI" wherever they're shown. We aim to keep the QR code in the image scannable, but we can't guarantee it in every situation (lighting, scan distance, different devices). Please check that an image scans correctly before relying on it for something important (printing, business use, etc.).
 
-Inspire.AI has built-in the most outstanding diverse art templates. Bringing convenience and unlimited creativity to you.
+3. Coins and in-app purchases
+Each art QR generation costs a number of coins depending on the chosen style. Coins are sold as one-off packs (not subscriptions, no auto-renewal), billed through the App Store/Google Play under their respective policies. Coins spent on a successful generation are non-refundable; if a generation fails due to a technical error, coins are not deducted.
 
-► Create AI Video from images, words or videos
+4. Rewarded ads
+The app offers an optional rewarded-ad feature to earn extra coins or one free generation, with a daily limit on views. Ads are served by a third-party provider; we're not responsible for the specific content of any individual ad shown.
 
-Inspire.AI makes creating professional quality videos simple and fun.
-You can create imaginative stories or create viral content. Inspire.AI is the application for you to bring photos to life easily and creatively.
-Or turn your videos into uniquely stylish AI Videos with the power of AI
+5. Reporting content
+If an AI-generated image doesn't scan, contains inappropriate content, or you suspect a copyright issue, you can report it directly in the app from the Result or Detail screen. We review reports to improve quality and to comply with the App Store's and Google Play's AI-generated content policies.
 
-► Create art from images
+6. Your responsibilities
+You're responsible for the content you enter to generate a QR code (link, WiFi details, contact card, text). Don't use the app to create QR codes containing illegal content, content that infringes on others' rights, or content meant to deceive whoever scans it.
 
-Start with an image as a visual base for your prompt. Upload a photo or choose one from our library and watch our AI transform it into a masterpiece that matches your vision. Transform your partner's photos or bring your child's artwork to life. Enjoy your AI-generated photos and images.
+7. Changes to these terms
+We may update these terms as the app changes. Updates will be shown again inside the app; continuing to use the app after an update means you accept the new terms.
 
-- Various styles: Anime, 3D, Digital Art, Pixel, Cybernetic...
+Privacy Policy
+The section below summarizes how QR Artistic handles your data.
 
-- Turn your photos into famous works like: Molisa, Van Gogh, Girl with a Pearl Earring... or anyone.
+Data we collect
+The content you enter to generate a QR code (link, WiFi name, contact details, text) is sent to an AI service to generate the image. The resulting image and your create/scan history are stored tied to your device (or your Apple/Google account, if you choose to link one).
 
-- More cool features to explore
+How data is used
+Data you provide is used only to generate your art QR image, show your own history back to you, and process content reports you choose to submit. We don't sell personal data to third parties.
 
-► Turn words into art, let us inspire you:
+Ads and third parties
+The rewarded-ads feature uses a third-party ad SDK (AdMob) — the ad provider may collect certain device data under its own policy to serve relevant ads.
 
-- Movie posters
+Your rights
+You can delete individual items in History, or permanently delete your entire account (created images, history, coin balance) right in the app — open the Account tab, tap "Log out", then choose "Permanently delete account".
 
-- Song lyrics
-
-- Magazine entries
-
-- Poems
-
-- Plus more art styles to help your imagination run wild
-
-and much more!
-
-If you choose not to read this entire Privacy Policy, we want you to review some key points about Inspire.AI privacy practices:
-
-Apps are photo editors that allow users to edit portraits with highly realistic facial transformations.
-
-We do not use the Photos you provide when you use the App for any reason other than to provide you with the editing functionality of the App.
-
-We use third-party cloud providers — specifically Google Cloud Platform — to process and edit photos.
-
-You only send to the cloud the Photos you specifically choose to edit.
-
-Photos are temporarily stored on a cloud server during editing and encrypted with a key stored locally on your mobile device.
-
-The photo will be deleted immediately after finishing the editing process.
-
-Here's more information about our privacy practices.
-
-If you have any questions regarding how the app protects your privacy, feel free to email me and I will definitely try to fix/help you.
-
-KThinking.app.@gmail.com - KThinking
+Questions about these terms, our privacy policy, or exercising your data rights another way? Contact us at KThinking.app@gmail.com
